@@ -1,0 +1,13 @@
+{
+    "author": "Yakan_k",
+    "name": "Library Base Template",
+    "description": "A project for creating a common library that can run on .NET Core on Windows, Linux and macOS, and enable nullable warning as error.",
+    "identity": "Yakan_k.CommonLib.1.0",
+    "shortName": "LibBase",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "MyProject",
+    "symbols": {}
+}
